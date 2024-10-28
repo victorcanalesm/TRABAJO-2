@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86FCC387-9DF9-4817-848B-43732D13EEF7}|Alumnos y Asignaturas.csproj|C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\asignaturaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86FCC387-9DF9-4817-848B-43732D13EEF7}|Alumnos y Asignaturas.csproj|solutionrelative:asignaturaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FCC387-9DF9-4817-848B-43732D13EEF7}|Alumnos y Asignaturas.csproj|c:\\users\\luiss\\onedrive\\escritorio\\repos\\repos\\alumnos y asignaturas\\asignaturaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FCC387-9DF9-4817-848B-43732D13EEF7}|Alumnos y Asignaturas.csproj|solutionrelative:asignaturaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FCC387-9DF9-4817-848B-43732D13EEF7}|Alumnos y Asignaturas.csproj|C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\alumnosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86FCC387-9DF9-4817-848B-43732D13EEF7}|Alumnos y Asignaturas.csproj|solutionrelative:alumnosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FCC387-9DF9-4817-848B-43732D13EEF7}|Alumnos y Asignaturas.csproj|c:\\users\\luiss\\onedrive\\escritorio\\repos\\repos\\alumnos y asignaturas\\asignaturaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FCC387-9DF9-4817-848B-43732D13EEF7}|Alumnos y Asignaturas.csproj|solutionrelative:asignaturaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FCC387-9DF9-4817-848B-43732D13EEF7}|Alumnos y Asignaturas.csproj|C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FCC387-9DF9-4817-848B-43732D13EEF7}|Alumnos y Asignaturas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3791EF9-84B3-4B2F-96B0-3CEEBEF4109E}|..\\AlumnosDAL\\AlumnosDAL.csproj|c:\\users\\luiss\\onedrive\\escritorio\\repos\\repos\\alumnosdal\\asignaturadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3791EF9-84B3-4B2F-96B0-3CEEBEF4109E}|..\\AlumnosDAL\\AlumnosDAL.csproj|c:\\users\\luiss\\onedrive\\escritorio\\repos\\repos\\alumnosdal\\alumnosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FCC387-9DF9-4817-848B-43732D13EEF7}|Alumnos y Asignaturas.csproj|C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\alumnosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FCC387-9DF9-4817-848B-43732D13EEF7}|Alumnos y Asignaturas.csproj|solutionrelative:alumnosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFE8CC5-91E8-4120-A1C4-FFFCE8541538}|..\\AlumnosBL\\AlumnosBL.csproj|c:\\users\\luiss\\onedrive\\escritorio\\repos\\repos\\alumnosbl\\alumnosbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F150BB14-6E63-4D1D-9623-A60C5EAD283E}|..\\AlumnosBOL\\AlumnosBOL.csproj|c:\\users\\luiss\\onedrive\\escritorio\\repos\\repos\\alumnosbol\\alumnosbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F150BB14-6E63-4D1D-9623-A60C5EAD283E}|..\\AlumnosBOL\\AlumnosBOL.csproj|c:\\users\\luiss\\onedrive\\escritorio\\repos\\repos\\alumnosbol\\asignaturabol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFE8CC5-91E8-4120-A1C4-FFFCE8541538}|..\\AlumnosBL\\AlumnosBL.csproj|c:\\users\\luiss\\onedrive\\escritorio\\repos\\repos\\alumnosbl\\asignaturabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FCC387-9DF9-4817-848B-43732D13EEF7}|Alumnos y Asignaturas.csproj|C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\alumnos_y_asignaturasdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{86FCC387-9DF9-4817-848B-43732D13EEF7}|Alumnos y Asignaturas.csproj|solutionrelative:alumnos_y_asignaturasdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FCC387-9DF9-4817-848B-43732D13EEF7}|Alumnos y Asignaturas.csproj|C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\alumnos_y_asignaturasdataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{86FCC387-9DF9-4817-848B-43732D13EEF7}|Alumnos y Asignaturas.csproj|solutionrelative:alumnos_y_asignaturasdataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FCC387-9DF9-4817-848B-43732D13EEF7}|Alumnos y Asignaturas.csproj|C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\alumnosform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FCC387-9DF9-4817-848B-43732D13EEF7}|Alumnos y Asignaturas.csproj|solutionrelative:alumnosform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsignaturaForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\AsignaturaForm.Designer.cs",
+              "RelativeDocumentMoniker": "AsignaturaForm.Designer.cs",
+              "ToolTip": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\AsignaturaForm.Designer.cs",
+              "RelativeToolTip": "AsignaturaForm.Designer.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAMkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:11:52.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AsignaturaForm.cs",
+              "DocumentMoniker": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\AsignaturaForm.cs",
+              "RelativeDocumentMoniker": "AsignaturaForm.cs",
+              "ToolTip": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\AsignaturaForm.cs",
+              "RelativeToolTip": "AsignaturaForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA6wCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:57:48.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AsignaturaBOL.cs",
+              "DocumentMoniker": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\AlumnosBOL\\AsignaturaBOL.cs",
+              "RelativeDocumentMoniker": "..\\AlumnosBOL\\AsignaturaBOL.cs",
+              "ToolTip": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\AlumnosBOL\\AsignaturaBOL.cs",
+              "RelativeToolTip": "..\\AlumnosBOL\\AsignaturaBOL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:54:58.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Alumnos_y_AsignaturasDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\Alumnos_y_AsignaturasDataSet.xsd",
+              "RelativeDocumentMoniker": "Alumnos_y_AsignaturasDataSet.xsd",
+              "ToolTip": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\Alumnos_y_AsignaturasDataSet.xsd",
+              "RelativeToolTip": "Alumnos_y_AsignaturasDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-28T07:29:59.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Alumnos_y_AsignaturasDataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\Alumnos_y_AsignaturasDataSet1.xsd",
+              "RelativeDocumentMoniker": "Alumnos_y_AsignaturasDataSet1.xsd",
+              "ToolTip": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\Alumnos_y_AsignaturasDataSet1.xsd",
+              "RelativeToolTip": "Alumnos_y_AsignaturasDataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-28T07:29:54.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:20:45.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AlumnosForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\AlumnosForm.Designer.cs",
+              "RelativeDocumentMoniker": "AlumnosForm.Designer.cs",
+              "ToolTip": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\AlumnosForm.Designer.cs",
+              "RelativeToolTip": "AlumnosForm.Designer.cs",
+              "ViewState": "AgIAADABAAAAAAAAAAAkwEABAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:22:06.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlumnosForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\AlumnosForm.cs",
+              "RelativeDocumentMoniker": "AlumnosForm.cs",
+              "ToolTip": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\AlumnosForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AlumnosForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:33:22.508Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlumnosDAL.cs",
+              "DocumentMoniker": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\AlumnosDAL\\AlumnosDAL.cs",
+              "RelativeDocumentMoniker": "..\\AlumnosDAL\\AlumnosDAL.cs",
+              "ToolTip": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\AlumnosDAL\\AlumnosDAL.cs",
+              "RelativeToolTip": "..\\AlumnosDAL\\AlumnosDAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:19:30.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AsignaturaBL.cs",
+              "DocumentMoniker": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\AlumnosBL\\AsignaturaBL.cs",
+              "RelativeDocumentMoniker": "..\\AlumnosBL\\AsignaturaBL.cs",
+              "ToolTip": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\AlumnosBL\\AsignaturaBL.cs",
+              "RelativeToolTip": "..\\AlumnosBL\\AsignaturaBL.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T01:05:09.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlumnosForm.cs",
+              "DocumentMoniker": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\AlumnosForm.cs",
+              "RelativeDocumentMoniker": "AlumnosForm.cs",
+              "ToolTip": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\AlumnosForm.cs",
+              "RelativeToolTip": "AlumnosForm.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwNUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T01:04:25.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AsignaturaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\AlumnosDAL\\AsignaturaDAL.cs",
+              "RelativeDocumentMoniker": "..\\AlumnosDAL\\AsignaturaDAL.cs",
+              "ToolTip": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\AlumnosDAL\\AsignaturaDAL.cs",
+              "RelativeToolTip": "..\\AlumnosDAL\\AsignaturaDAL.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAAAMAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:55:35.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AsignaturaForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\AsignaturaForm.cs",
+              "RelativeDocumentMoniker": "AsignaturaForm.cs",
+              "ToolTip": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\Alumnos y Asignaturas\\AsignaturaForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AsignaturaForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:35:25.288Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlumnosBL.cs",
+              "DocumentMoniker": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\AlumnosBL\\AlumnosBL.cs",
+              "RelativeDocumentMoniker": "..\\AlumnosBL\\AlumnosBL.cs",
+              "ToolTip": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\AlumnosBL\\AlumnosBL.cs",
+              "RelativeToolTip": "..\\AlumnosBL\\AlumnosBL.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAADwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:01:30.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlumnosBOL.cs",
+              "DocumentMoniker": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\AlumnosBOL\\AlumnosBOL.cs",
+              "RelativeDocumentMoniker": "..\\AlumnosBOL\\AlumnosBOL.cs",
+              "ToolTip": "C:\\Users\\luiss\\OneDrive\\Escritorio\\repos\\repos\\AlumnosBOL\\AlumnosBOL.cs",
+              "RelativeToolTip": "..\\AlumnosBOL\\AlumnosBOL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T23:42:20.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

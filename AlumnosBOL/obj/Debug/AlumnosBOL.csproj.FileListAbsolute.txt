@@ -1,0 +1,12 @@
+C:\Users\luiss\source\repos\AlumnosBOL\bin\Debug\AlumnosBOL.dll
+C:\Users\luiss\source\repos\AlumnosBOL\bin\Debug\AlumnosBOL.pdb
+C:\Users\luiss\source\repos\AlumnosBOL\obj\Debug\AlumnosBOL.csproj.AssemblyReference.cache
+C:\Users\luiss\source\repos\AlumnosBOL\obj\Debug\AlumnosBOL.csproj.CoreCompileInputs.cache
+C:\Users\luiss\source\repos\AlumnosBOL\obj\Debug\AlumnosBOL.dll
+C:\Users\luiss\source\repos\AlumnosBOL\obj\Debug\AlumnosBOL.pdb
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\AlumnosBOL\bin\Debug\AlumnosBOL.dll
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\AlumnosBOL\bin\Debug\AlumnosBOL.pdb
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\AlumnosBOL\obj\Debug\AlumnosBOL.csproj.AssemblyReference.cache
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\AlumnosBOL\obj\Debug\AlumnosBOL.csproj.CoreCompileInputs.cache
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\AlumnosBOL\obj\Debug\AlumnosBOL.dll
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\AlumnosBOL\obj\Debug\AlumnosBOL.pdb

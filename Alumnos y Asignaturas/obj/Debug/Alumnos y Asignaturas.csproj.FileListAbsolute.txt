@@ -1,0 +1,36 @@
+C:\Users\luiss\source\repos\Alumnos y Asignaturas\bin\Debug\Alumnos y Asignaturas.exe.config
+C:\Users\luiss\source\repos\Alumnos y Asignaturas\bin\Debug\Alumnos y Asignaturas.exe
+C:\Users\luiss\source\repos\Alumnos y Asignaturas\bin\Debug\Alumnos y Asignaturas.pdb
+C:\Users\luiss\source\repos\Alumnos y Asignaturas\bin\Debug\AlumnosBL.dll
+C:\Users\luiss\source\repos\Alumnos y Asignaturas\bin\Debug\AlumnosBOL.dll
+C:\Users\luiss\source\repos\Alumnos y Asignaturas\bin\Debug\AlumnosDAL.dll
+C:\Users\luiss\source\repos\Alumnos y Asignaturas\bin\Debug\AlumnosBL.pdb
+C:\Users\luiss\source\repos\Alumnos y Asignaturas\bin\Debug\AlumnosBOL.pdb
+C:\Users\luiss\source\repos\Alumnos y Asignaturas\bin\Debug\AlumnosDAL.pdb
+C:\Users\luiss\source\repos\Alumnos y Asignaturas\obj\Debug\Alumnos y Asignaturas.csproj.AssemblyReference.cache
+C:\Users\luiss\source\repos\Alumnos y Asignaturas\obj\Debug\Alumnos_y_Asignaturas.Properties.Resources.resources
+C:\Users\luiss\source\repos\Alumnos y Asignaturas\obj\Debug\Alumnos y Asignaturas.csproj.GenerateResource.cache
+C:\Users\luiss\source\repos\Alumnos y Asignaturas\obj\Debug\Alumnos y Asignaturas.csproj.CoreCompileInputs.cache
+C:\Users\luiss\source\repos\Alumnos y Asignaturas\obj\Debug\Alumnos .F824AD74.Up2Date
+C:\Users\luiss\source\repos\Alumnos y Asignaturas\obj\Debug\Alumnos y Asignaturas.exe
+C:\Users\luiss\source\repos\Alumnos y Asignaturas\obj\Debug\Alumnos y Asignaturas.pdb
+C:\Users\luiss\source\repos\Alumnos y Asignaturas\obj\Debug\Alumnos_y_Asignaturas.AlumnosForm.resources
+C:\Users\luiss\source\repos\Alumnos y Asignaturas\obj\Debug\Alumnos_y_Asignaturas.AsignaturaForm.resources
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\Alumnos y Asignaturas\bin\Debug\Alumnos y Asignaturas.exe.config
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\Alumnos y Asignaturas\bin\Debug\Alumnos y Asignaturas.exe
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\Alumnos y Asignaturas\bin\Debug\Alumnos y Asignaturas.pdb
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\Alumnos y Asignaturas\bin\Debug\AlumnosBL.dll
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\Alumnos y Asignaturas\bin\Debug\AlumnosBOL.dll
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\Alumnos y Asignaturas\bin\Debug\AlumnosDAL.dll
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\Alumnos y Asignaturas\bin\Debug\AlumnosBL.pdb
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\Alumnos y Asignaturas\bin\Debug\AlumnosBOL.pdb
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\Alumnos y Asignaturas\bin\Debug\AlumnosDAL.pdb
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\Alumnos y Asignaturas\obj\Debug\Alumnos y Asignaturas.csproj.AssemblyReference.cache
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\Alumnos y Asignaturas\obj\Debug\Alumnos_y_Asignaturas.AlumnosForm.resources
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\Alumnos y Asignaturas\obj\Debug\Alumnos_y_Asignaturas.AsignaturaForm.resources
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\Alumnos y Asignaturas\obj\Debug\Alumnos_y_Asignaturas.Properties.Resources.resources
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\Alumnos y Asignaturas\obj\Debug\Alumnos y Asignaturas.csproj.GenerateResource.cache
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\Alumnos y Asignaturas\obj\Debug\Alumnos y Asignaturas.csproj.CoreCompileInputs.cache
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\Alumnos y Asignaturas\obj\Debug\Alumnos .F824AD74.Up2Date
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\Alumnos y Asignaturas\obj\Debug\Alumnos y Asignaturas.exe
+C:\Users\luiss\OneDrive\Escritorio\repos\repos\Alumnos y Asignaturas\obj\Debug\Alumnos y Asignaturas.pdb
